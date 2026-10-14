@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+psycopg[binary]
+PyJWT
+argon2-cffi
+bleach
