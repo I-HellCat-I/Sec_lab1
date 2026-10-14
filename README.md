@@ -92,8 +92,10 @@ API будет доступно по адресу: `http://localhost:5000`
 ## Отчеты CI/CD (SAST и SCA)
 
 ### Скриншот отчета SAST (Static Application Security Testing)
+<img width="723" height="542" alt="{7938C483-A0D3-4A90-A8F1-72D8717BE68B}" src="https://github.com/user-attachments/assets/6dee09c1-5e8b-4260-8b6f-512d8a5ecb12" />
 
 
 ### Скриншот отчета SCA (Software Composition Analysis)
+<img width="564" height="794" alt="{FA7B1F65-3F55-4C21-9824-51944A35BED5}" src="https://github.com/user-attachments/assets/bcb35828-8fb0-43b5-b570-a6d3f93ae23f" />
 
 
